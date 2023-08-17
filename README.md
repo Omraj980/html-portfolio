@@ -1,2 +1,2 @@
 # html-portfolio
-THIS IS THE FIRST PROJECT I CREATED AS I STARTEC
+"This is the first project I created as I started learning the MERN stack."
